@@ -1,0 +1,21 @@
+html, body, div, ul, li, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, form, input, textarea, th, td, select {margin: 0;padding: 0;}
+/* *{box-sizing: border-box;} */
+html, body {min-height: 100%;}
+body {background: #fff;font: 12px/1.5 Arial,Helvetica,sans-serif;color: #333;-webkit-text-size-adjust: none;margin: 0}
+button,input,select,textarea {font: 100% tahoma,arial,\5b8b\4f53}
+h1,h2,h3,h4,h5,h6 {font-size: 100%;font-weight: bold;}
+em,i {font-style: normal}
+ul,ol {list-style: none;}
+fieldset,img {border: 0;}
+input {vertical-align: middle;}
+table {border-collapse: collapse;border-spacing: 0;}
+a {color: #36c;text-decoration: none;outline: 0;}
+a:hover {color: #ff6000;text-decoration: none;}
+h1, h2, h3, h4, h5, h6{font-weight:normal;}
+ul,ol {list-style: none;}
+img {border: none;vertical-align: middle;}
+a {text-decoration: none;color: #232323;}
+table {border-collapse: collapse;table-layout: fixed;}
+input, textarea, select{outline: none;}
+textarea {overflow: auto;resize: none;}
+* {user-select: none; box-sizing: border-box;}
